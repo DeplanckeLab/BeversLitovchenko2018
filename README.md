@@ -14,8 +14,7 @@ Source code to support the paper: "Extensive  mitochondrial  population  structu
 | 8_dm6_map_dedupl_dm6.sh   |  step 8: perform mapping to dm6 & simultaniously correct genotypes |
 | 9_dm6_getMap_stats.sh   |  step 9: check the quality of the maping on dm6 |
 | 10_dm6_merge_BeversData.sh   | step 10: merge mitochandrial gvcfs into one  |
-| 11_dm6_5950_5975_repeats.sh   |  step 11: extract reads mapping to the intergenic repeat region of the mitochondrial genome
-|
+| 11_dm6_5950_5975_repeats.sh   |  step 11: extract reads mapping to the intergenic repeat region of the mitochondrial genome |
 | 11A_Heteroplasmy.py   | step 12: perform calculations of heteroplasmy |
 | 12_Heteroplasmy.sh   | step 12: perform calculations of heteroplasmy   |
 | 13_parse_nuclVars_for_GRD.sh   | step 13: move dgrp2 vcf from dm3 to dm6, select variants by maf  |
